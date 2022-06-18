@@ -1,0 +1,21 @@
+*{
+
+}
+body {
+display: grid;
+}
+.container-1 {
+    background-color: orangered;
+}
+.container-2 {
+    background-color: yellow;
+}
+.container-3 {
+    background-color: green;
+}
+.container-4 {
+    background-color: blue;
+}
+.container-5 {
+    background-color: blue;
+}
